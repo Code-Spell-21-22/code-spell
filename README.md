@@ -1,6 +1,8 @@
 # Final IT Project 2021/2022
 #### Reactive Graphic Platform for Programming Teaching
 
+## CodeSpell
+
 This project intends to create a reactive graphic platform that allows exploring some basic programming language concepts, allowing students to visually verify the effect of different programming mechanisms. 
 
 The platform would have the ability to interpret the code developed by the students, and, in conjunction with an API to be defined, would display the result of that operation on the screen and, as they learned the syntax of a programming language, they gradually refined the control of that robot. 
